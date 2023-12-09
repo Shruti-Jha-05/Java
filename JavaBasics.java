@@ -5,4 +5,5 @@ public class JavaBasics {
         System.out.print("hii\n");
         System.out.print("hello");
     }
+    
 }
